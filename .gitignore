@@ -1,0 +1,15 @@
+target/
+activemq-data/
+.checkstyle
+.java-version
+clientIds.txt
+
+# eclipse project files
+.project
+.settings/
+.classpath
+
+# intellij project files
+*.iws
+*.iml
+.idea
